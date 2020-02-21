@@ -1,0 +1,10 @@
+The character a contains 2 characters
+The character s contains 2 characters
+The character d contains 2 characters
+The character u contains 1 characters
+The character f contains 2 characters
+The character i contains 1 characters
+The character j contains 1 characters
+The character k contains 1 characters
+The character l contains 1 characters
+The character o contains 1 characters
